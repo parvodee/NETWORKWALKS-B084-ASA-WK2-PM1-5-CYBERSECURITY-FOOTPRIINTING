@@ -7,13 +7,16 @@ FOOTPRINTING & NETWORK SCANNING PHASES
     
 
 W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
-🚧 Project Overview
 
 
 Asa Phafoli
-Program/Batch	Networkwalks-B084
+
+Program/Batch: Networkwalks-B084
+
 Date	13th November, 2026
-Modules completed	
+
+
+Modules completed
 W2-PM1 (Multiple Kali Tools)
 W2-PM3 Maltego based Footprinting Attack
 W2-PM4 TheHarvester based Footprinting
